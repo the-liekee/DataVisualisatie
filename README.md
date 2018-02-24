@@ -1,2 +1,1 @@
 # DataVisualisatie
-School project
